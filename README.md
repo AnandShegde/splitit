@@ -6,3 +6,10 @@ If you have went to a trip with your friends you would have realized it is diffi
 * Created our own database just using txt files.
 * You can make groups and subgroups.
 * Add the expenses precentagewise, ratiowise, moneywise.
+* settle up, Know your total expence
+* See all of your activities
+
+TO DO:
+* Modify an entry
+* Use excel instead of txt file
+* Add more settle up features
